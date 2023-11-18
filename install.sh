@@ -7,4 +7,4 @@ export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.ustc.edu.cn/homebrew-core.git"
 
 # update and install using homebrew
 brew update
-brew install htop jq tree cowsay k9s telnet tldr 
+brew install htop jq tree cowsay k9s telnet tldr git-delta 
